@@ -24,7 +24,7 @@
 ## DEPLOYMENT METHODS
 
 - Click on **[FORK](https://github.com/elite-md/ELITE-PRO-V1/fork)**
-- Click here to get **[SESSION_ID](https://elitepro-sessions.onrender.com)**
+- Click here to get **[SESSION_ID](https://elitepro-session-id.onrender.com/)**
 - Uploading session_id (Creds.json) in session folder.
 - Edit settings.js to your preference
 
@@ -32,7 +32,7 @@
 
 ## FOR PANEL DEPLOYMENT
 
-- Download zip file🗃️
+- Click on **[DOWNLOAD](https://eliteproverified.vercel.app/)** to get zip file🗃.
 - Click on **[BOT-HOSTING.NET](https://bot-hosting.net/)**
 - Create a server
 - Upload zip file 🗃️ 
