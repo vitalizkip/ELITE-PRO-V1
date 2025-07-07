@@ -5,7 +5,7 @@ const chalk = require('chalk');
 // Contact details
 global.ytname = process.env.YT_NAME || "YT: @EliteProTech";
 global.socialm = process.env.SOCIAL_M || "GitHub: EliteProTech";
-global.location = process.env.LOCATION || "Nigeria, Port Harcourt";
+global.location = process.env.LOCATION || "Nairobi, Kenya";
 
 // Creator details
 global.ownernumber = process.env.OWNER_NUMBER || '2348109263390';
